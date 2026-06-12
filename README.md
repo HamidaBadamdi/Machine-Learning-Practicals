@@ -1,2 +1,64 @@
-# Machine-Learning-Practicals
-Collection of Machine Learning practicals and experiments with hands-on implementations.
+# 📘 Machine Learning Practicals
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow?logo=scikit-learn)
+
+---
+
+## 📌 About This Repository
+
+This repository contains all **Machine Learning practical programs and experiments** completed during my academic semester.
+
+Each practical focuses on implementing core Machine Learning concepts with proper understanding and hands-on execution.
+
+This repository is continuously updated with new Machine Learning practicals as I learn and progress.
+
+---
+
+## 🎯 Purpose
+
+* Maintain a structured record of ML practicals
+* Strengthen understanding of ML algorithms
+* Practice real-world dataset handling
+* Build a strong foundation in Machine Learning
+
+---
+
+## 🛠️ Technologies Used
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib / Seaborn
+* Scikit-Learn
+* IDLE
+* Jupyter Notebook
+
+---
+
+## 📊 Practicals List
+
+| No. | Practical              | Description                       |
+| --- | ---------------------- | --------------------------------- |
+| 1   | Data Preprocessing     | Cleaning, handling missing values |
+| 2   | Linear Regression      | Prediction model                  |
+
+---
+
+
+## 📈 What I Learned
+
+* Practical implementation of ML algorithms
+* Data preprocessing techniques
+* Model training and evaluation
+* Working with real datasets
+
+---
+
+## 🔗 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/hamida-badamdi
+* GitHub: https://github.com/HamidaBadamdi
+
+---
