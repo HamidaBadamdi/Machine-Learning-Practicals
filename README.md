@@ -45,16 +45,6 @@ This repository is continuously updated with new Machine Learning practicals as 
 
 ---
 
-
-## 📈 What I Learned
-
-* Practical implementation of ML algorithms
-* Data preprocessing techniques
-* Model training and evaluation
-* Working with real datasets
-
----
-
 ## 🔗 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/hamida-badamdi
