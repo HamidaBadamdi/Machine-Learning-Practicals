@@ -16,7 +16,6 @@ Apply LabelEncoder
 Transform categories into numeric labels
 Reverse the encoded data back to original form
 
-Author: Your Name
 """
 from sklearn.preprocessing import LabelEncoder
 
