@@ -39,10 +39,9 @@ This repository is continuously updated with new Machine Learning practicals as 
 
 ## 📊 Practicals List
 
-| No. | Practical              | Description                       |
-| --- | ---------------------- | --------------------------------- |
-| 1   | Data Preprocessing     | Cleaning, handling missing values |
-| 2   | Linear Regression      | Prediction model                  |
+| No. | Practical      | Description                                          | Status      |
+| --- | -------------- | ---------------------------------------------------- | ----------- |
+| 1   | Label Encoding | Encoding categorical data using sklearn LabelEncoder | ✅ Completed |
 
 ---
 
