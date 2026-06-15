@@ -39,10 +39,11 @@ This repository is continuously updated with new Machine Learning practicals as 
 
 ## 📊 Practicals List
 
-| No. | Practical        | Description                                         | Status      |
-| --- | ---------------- | --------------------------------------------------- | ----------- |
-| 1   | Label Encoding   | Encoding categorical data using sklearn LabelEncoder | ✅ Completed |
-| 2   | Ordinal Encoding | Encoding ordered categorical data with custom order | ✅ Completed |
+| No. | Practical                        | Description                                         | Status      |
+| --- | -------------------------------- | --------------------------------------------------- | ----------- |
+| 1   | Label Encoding                   | Encoding categorical data using LabelEncoder        | ✅ Completed |
+| 2   | Ordinal Encoding                 | Encoding ordered categorical data with custom order | ✅ Completed |
+| 3   | Feature Mapping & Label Encoding | Mapping features and encoding class labels          | ✅ Completed |
 
 
 ---
