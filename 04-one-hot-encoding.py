@@ -28,7 +28,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.compose import ColumnTransformer
 
-df=pd.read_csv('D:/4121/ML/tempbook.csv')
+df=pd.read_csv('datasets/tempbook.csv')
 print(df)
 
 x=df[['color','size','price']].values
