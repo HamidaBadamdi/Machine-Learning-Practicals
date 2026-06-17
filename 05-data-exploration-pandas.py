@@ -27,7 +27,7 @@ Steps Covered:
 
 import pandas as pd
 
-winedatac=pd.read_csv('D:/4121/ML/wine.csv')
+winedatac=pd.read_csv('datasets/wine.csv')
 
 print(winedatac)
 print(winedatac.head())
@@ -37,7 +37,7 @@ print("dtypes\n",winedatac.dtypes)
 print("ndim\n",winedatac.ndim)
 print("size\n",winedatac.size)
 
-winedatae=pd.read_excel('D:/4121/ML/wine.xlsx')
+winedatae=pd.read_excel('datasets/wine.xlsx')
 
 print('\n')
 print(windedatae)
