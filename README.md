@@ -45,6 +45,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 | 2   | Ordinal Encoding                 | Encoding ordered categorical data             | ✅ Completed |
 | 3   | Feature Mapping & Label Encoding | Mapping features and encoding class labels    | ✅ Completed |
 | 4   | One Hot Encoding                 | Creating dummy variables for categorical data | ✅ Completed |
+| 5   | Data Exploration                 | Understanding dataset using pandas            | ✅ Completed |
 
 
 ---
