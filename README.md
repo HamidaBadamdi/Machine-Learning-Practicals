@@ -39,15 +39,17 @@ This repository is continuously updated with new Machine Learning practicals as 
 
 ## 📊 Practicals List
 
-| No. | Practical                        | Description                                   | Status      |
-| --- | -------------------------------- | --------------------------------------------- | ----------- |
-| 1   | Label Encoding                   | Encoding categorical data using LabelEncoder  | ✅ Completed |
-| 2   | Ordinal Encoding                 | Encoding ordered categorical data             | ✅ Completed |
-| 3   | Feature Mapping & Label Encoding | Mapping features and encoding class labels    | ✅ Completed |
-| 4   | One Hot Encoding                 | Creating dummy variables for categorical data | ✅ Completed |
-| 5   | Data Exploration                 | Understanding dataset using pandas            | ✅ Completed |
-| 6 | Handling Missing Values | Managing NaN values using pandas | ✅ Completed |
-| 7 | Missing Value Imputation | Replacing NaN values using sklearn SimpleImputer | ✅ Completed |
+## 📊 Practicals List
+
+| No. | Practical                        | Description                                      | Status      |
+| --- | -------------------------------- | ------------------------------------------------ | ----------- |
+| 1   | Label Encoding                   | Encoding categorical data using LabelEncoder     | ✅ Completed |
+| 2   | Ordinal Encoding                 | Encoding ordered categorical data                | ✅ Completed |
+| 3   | Feature Mapping & Label Encoding | Mapping features and encoding class labels       | ✅ Completed |
+| 4   | One Hot Encoding                 | Creating dummy variables for categorical data    | ✅ Completed |
+| 5   | Data Exploration                 | Understanding dataset using pandas               | ✅ Completed |
+| 6   | Handling Missing Values          | Managing NaN values using pandas                 | ✅ Completed |
+| 7   | Missing Value Imputation         | Replacing NaN values using sklearn SimpleImputer | ✅ Completed |
 
 
 
