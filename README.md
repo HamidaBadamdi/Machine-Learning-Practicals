@@ -50,8 +50,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 | 5   | Data Exploration                 | Understanding dataset using pandas               | ✅ Completed |
 | 6   | Handling Missing Values          | Managing NaN values using pandas                 | ✅ Completed |
 | 7   | Missing Value Imputation         | Replacing NaN values using sklearn SimpleImputer | ✅ Completed |
-
-
+| 8 | Decision Tree | Classification using decision tree and feature importance | ✅ Completed |
 
 
 ---
