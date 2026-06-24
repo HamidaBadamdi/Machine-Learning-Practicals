@@ -32,6 +32,7 @@ Key Concepts:
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score
 
 # Load the iris dataset
 iris = load_iris()
@@ -53,3 +54,6 @@ feature_importances = clf.feature_importances_
 # Print feature importances
 for feature, importance in zip(iris.feature_names, feature_importances):
     print(f"{feature}: {importance}")
+
+y_pred = clf.predict(X_test)
+print("Accuracy:", accuracy_score(y_test, y_pred))
