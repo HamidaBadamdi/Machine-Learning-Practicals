@@ -37,7 +37,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 import matplotlib.pyplot as plt
 
-df_wine=pd.read_csv('D:/Winter 2023/BSc DS 4/Programs/wine.csv')
+df_wine=pd.read_csv('datasets/wine.csv')
 print(df_wine)
 feat_labels = df_wine.columns[1:]
 
