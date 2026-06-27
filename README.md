@@ -39,20 +39,18 @@ This repository is continuously updated with new Machine Learning practicals as 
 
 ## 📊 Practicals List
 
-## 📊 Practicals List
-
-| No. | Practical                        | Description                                      | Status      |
-| --- | -------------------------------- | ------------------------------------------------ | ----------- |
-| 1   | Label Encoding                   | Encoding categorical data using LabelEncoder     | ✅ Completed |
-| 2   | Ordinal Encoding                 | Encoding ordered categorical data                | ✅ Completed |
-| 3   | Feature Mapping & Label Encoding | Mapping features and encoding class labels       | ✅ Completed |
-| 4   | One Hot Encoding                 | Creating dummy variables for categorical data    | ✅ Completed |
-| 5   | Data Exploration                 | Understanding dataset using pandas               | ✅ Completed |
-| 6   | Handling Missing Values          | Managing NaN values using pandas                 | ✅ Completed |
-| 7   | Missing Value Imputation         | Replacing NaN values using sklearn SimpleImputer | ✅ Completed |
-| 8 | Decision Tree | Classification using decision tree and feature importance | ✅ Completed |
-| 9 | Decision Tree Feature Importance (Wine Dataset) | Ranking features using Decision Tree classifier | ✅ Completed |
-| 10 | Cross-Validation (Logistic Regression) | Evaluating model performance using 3-fold and 5-fold cross-validation | ✅ Completed |
+| No. | Practical                         | Description                                  |    Status   |
+| :-: | --------------------------------- | -------------------------------------------- | :---------: |
+|  1  | Label Encoding                    | Encode categorical data using `LabelEncoder` | ✅ Completed |
+|  2  | Ordinal Encoding                  | Encode ordered categorical features          | ✅ Completed |
+|  3  | Feature Mapping & Label Encoding  | Map features and encode class labels         | ✅ Completed |
+|  4  | One-Hot Encoding                  | Create dummy variables for categorical data  | ✅ Completed |
+|  5  | Data Exploration                  | Explore datasets using Pandas                | ✅ Completed |
+|  6  | Handling Missing Values           | Detect and remove missing values             | ✅ Completed |
+|  7  | Missing Value Imputation          | Fill missing values using `SimpleImputer`    | ✅ Completed |
+|  8  | Decision Tree                     | Train a Decision Tree classifier             | ✅ Completed |
+|  9  | Feature Importance (Wine Dataset) | Rank features using Decision Tree            | ✅ Completed |
+|  10 | Cross-Validation                  | Evaluate Logistic Regression using k-fold CV | ✅ Completed |
 
 ---
 
