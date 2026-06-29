@@ -51,6 +51,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 |  8  | Decision Tree                     | Train a Decision Tree classifier             | ✅ Completed |
 |  9  | Feature Importance (Wine Dataset) | Rank features using Decision Tree            | ✅ Completed |
 |  10 | Cross-Validation                  | Evaluate Logistic Regression using k-fold CV | ✅ Completed |
+| 11 | Leave-One-Out Cross-Validation (LOOCV) | Evaluating Logistic Regression | ✅ Completed |
 
 ---
 
