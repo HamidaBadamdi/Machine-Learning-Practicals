@@ -52,6 +52,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 |  9  | Feature Importance (Wine Dataset) | Rank features using Decision Tree            | ✅ Completed |
 |  10 | Cross-Validation                  | Evaluate Logistic Regression using k-fold CV | ✅ Completed |
 | 11 | Leave-One-Out Cross-Validation (LOOCV) | Evaluating model using LOOCV | ✅ Completed |
+| 12 | Grid Search (SVM) | Hyperparameter tuning using GridSearchCV | ✅ Completed |
 
 ---
 
