@@ -54,6 +54,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 | 11 | Leave-One-Out Cross-Validation (LOOCV) | Evaluating model using LOOCV | ✅ Completed |
 | 12 | Grid Search (SVM) | Hyperparameter tuning using GridSearchCV | ✅ Completed |
 | 13 | Manual Grid Search (SVM) | Manual hyperparameter tuning using SVM | ✅ Completed |
+| 14 | Train-Test Split | Splitting dataset into training and testing sets | ✅ Completed |
 
 ---
 
