@@ -55,6 +55,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 | 12 | Grid Search (SVM) | Hyperparameter tuning using GridSearchCV | ✅ Completed |
 | 13 | Manual Grid Search (SVM) | Manual hyperparameter tuning using SVM | ✅ Completed |
 | 14 | Train-Test Split | Splitting dataset into training and testing sets | ✅ Completed |
+| 15 | KNN Classification | Classify data using K-Nearest Neighbors | ✅ Completed |
 
 ---
 
