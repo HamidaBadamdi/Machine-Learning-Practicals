@@ -1,0 +1,17 @@
+# Core Libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# Data Handling
+openpyxl
+
+# Visualization
+seaborn
+graphviz
+dtreeviz
+mglearn
+
+# Interactive Display (used in some practicals)
+ipython
