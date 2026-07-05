@@ -33,5 +33,13 @@ model = DecisionTreeClassifier(criterion='entropy')
 model.fit(X_train, y_train)
 
 # Visualize the decision tree
-viz = dtreeviz(model, X, y,feature_names=iris.feature_names,class_names=iris.target_names)
+#viz = dtreeviz(model, X, y,feature_names=iris.feature_names,class_names=iris.target_names)
+
+viz = dtreeviz(
+    model,
+    X_train,
+    y_train,
+    feature_names=iris.feature_names,
+    class_names=iris.target_names
+)
 viz.view()
