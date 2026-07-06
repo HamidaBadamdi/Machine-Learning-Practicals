@@ -24,7 +24,7 @@ from sklearn.metrics import classification_report
 from sklearn.datasets import load_iris
 
 #read data from csv file
-iris=pd.read_csv("c:/users/lenovo/downloads/iris.csv")
+iris=pd.read_csv("datasets/iris.csv")
 
 # define data and target variables
 y=iris["species"]
