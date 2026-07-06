@@ -58,6 +58,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 | 15 | KNN Classification (BreastCancer) | Classify Breast Cancer dataset using K-Nearest Neighbors | ✅ Completed |
 | 16 | KNN Classification (Iris) | Classify Iris dataset using KNN | ✅ Completed |
 | 17 | Decision Tree Entropy | Visualize Decision Tree using dtreeviz | ✅ Completed |
+| 18 | Decision Tree Classification | Evaluate Decision Tree classifier performance | ✅ Completed |
 
 ---
 
