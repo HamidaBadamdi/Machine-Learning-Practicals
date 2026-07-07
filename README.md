@@ -37,7 +37,6 @@ This repository is continuously updated with new Machine Learning practicals as 
 
 ---
 
-## 📊 Practicals List
 ## 📊 Practicals Progress
 
 | No. | Practical | Description | Status |
