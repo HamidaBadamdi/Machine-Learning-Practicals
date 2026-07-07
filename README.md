@@ -38,28 +38,29 @@ This repository is continuously updated with new Machine Learning practicals as 
 ---
 
 ## 📊 Practicals List
+## 📊 Practicals Progress
 
-| No. | Practical                         | Description                                  |    Status   |
-| :-: | --------------------------------- | -------------------------------------------- | :---------: |
-|  1  | Label Encoding                    | Encode categorical data using `LabelEncoder` | ✅ Completed |
-|  2  | Ordinal Encoding                  | Encode ordered categorical features          | ✅ Completed |
-|  3  | Feature Mapping & Label Encoding  | Map features and encode class labels         | ✅ Completed |
-|  4  | One-Hot Encoding                  | Create dummy variables for categorical data  | ✅ Completed |
-|  5  | Data Exploration                  | Explore datasets using Pandas                | ✅ Completed |
-|  6  | Handling Missing Values           | Detect and remove missing values             | ✅ Completed |
-|  7  | Missing Value Imputation          | Fill missing values using `SimpleImputer`    | ✅ Completed |
-|  8  | Decision Tree                     | Train a Decision Tree classifier             | ✅ Completed |
-|  9  | Feature Importance (Wine Dataset) | Rank features using Decision Tree            | ✅ Completed |
-|  10 | Cross-Validation                  | Evaluate Logistic Regression using k-fold CV | ✅ Completed |
-| 11 | Leave-One-Out Cross-Validation (LOOCV) | Evaluating model using LOOCV | ✅ Completed |
-| 12 | Grid Search (SVM) | Hyperparameter tuning using GridSearchCV | ✅ Completed |
-| 13 | Manual Grid Search (SVM) | Manual hyperparameter tuning using SVM | ✅ Completed |
-| 14 | Train-Test Split | Splitting dataset into training and testing sets | ✅ Completed |
-| 15 | KNN Classification (BreastCancer) | Classify Breast Cancer dataset using K-Nearest Neighbors | ✅ Completed |
-| 16 | KNN Classification (Iris) | Classify Iris dataset using KNN | ✅ Completed |
-| 17 | Decision Tree Entropy | Visualize Decision Tree using dtreeviz | ✅ Completed |
-| 18 | Decision Tree Classification | Evaluate Decision Tree classifier performance | ✅ Completed |
-| 19 | Naive Bayes (BrestCancer Dataset) | Classify data using Gaussian Naive Bayes | ✅ Completed |
+| No. | Practical | Description | Status |
+|:---:|-----------------------------------------|----------------------------------------------------------|:---------:|
+| 1 | Label Encoding | Encode categorical features using `LabelEncoder` | ✅ Completed |
+| 2 | Ordinal Encoding | Encode ordered categorical features | ✅ Completed |
+| 3 | Feature Mapping & Label Encoding | Map feature values and encode class labels | ✅ Completed |
+| 4 | One-Hot Encoding | Convert categorical features into dummy variables | ✅ Completed |
+| 5 | Data Exploration | Explore CSV and Excel datasets using Pandas | ✅ Completed |
+| 6 | Handling Missing Values | Detect and remove missing values | ✅ Completed |
+| 7 | Missing Value Imputation | Impute missing values using `SimpleImputer` | ✅ Completed |
+| 8 | Decision Tree Classifier | Train a Decision Tree classification model | ✅ Completed |
+| 9 | Feature Importance (Wine Dataset) | Analyze feature importance using Decision Tree | ✅ Completed |
+| 10 | K-Fold Cross-Validation | Evaluate Logistic Regression using k-fold validation | ✅ Completed |
+| 11 | Leave-One-Out Cross-Validation (LOOCV) | Evaluate model using LOOCV | ✅ Completed |
+| 12 | Grid Search (SVM) | Optimize SVM hyperparameters using `GridSearchCV` | ✅ Completed |
+| 13 | Manual Grid Search (SVM) | Perform manual hyperparameter tuning for SVM | ✅ Completed |
+| 14 | Train-Test Split | Split dataset into training and testing sets | ✅ Completed |
+| 15 | KNN Classification (Breast Cancer) | Classify the Breast Cancer dataset using KNN | ✅ Completed |
+| 16 | KNN Classification (Iris) | Classify the Iris dataset using KNN | ✅ Completed |
+| 17 | Decision Tree Visualization | Visualize a Decision Tree using `dtreeviz` | ✅ Completed |
+| 18 | Decision Tree Classification | Evaluate a Decision Tree classifier | ✅ Completed |
+| 19 | Gaussian Naive Bayes (Breast Cancer) | Classify the Breast Cancer dataset using Gaussian Naive Bayes | ✅ Completed |
 
 ---
 
