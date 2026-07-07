@@ -59,6 +59,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 | 16 | KNN Classification (Iris) | Classify Iris dataset using KNN | ✅ Completed |
 | 17 | Decision Tree Entropy | Visualize Decision Tree using dtreeviz | ✅ Completed |
 | 18 | Decision Tree Classification | Evaluate Decision Tree classifier performance | ✅ Completed |
+| 19 | Naive Bayes (BrestCancer Dataset) | Classify data using Gaussian Naive Bayes | ✅ Completed |
 
 ---
 
