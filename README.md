@@ -61,6 +61,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 | 18 | Decision Tree Classification | Evaluate a Decision Tree classifier | ✅ Completed |
 | 19 | Gaussian Naive Bayes (Breast Cancer) | Classify the Breast Cancer dataset using Gaussian Naive Bayes | ✅ Completed |
 | 20 | Gaussian Naive Bayes (Iris) | Classify the Iris dataset using Gaussian Naive Bayes | ✅ Completed |
+| 21 | Decision Tree (Breast Cancer) | Classify the Breast Cancer dataset using Decision Tree | ✅ Completed |
 
 
 ---
