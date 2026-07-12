@@ -64,6 +64,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 | 21 | Decision Tree (Breast Cancer) | Classify the Breast Cancer dataset using Decision Tree | ✅ Completed |
 | 22 | SVM Classification (Breast Cancer) | Compare SVM kernels for classification | ✅ Completed |
 | 23 | Logistic Regression (Breast Cancer) | Classify the Breast Cancer dataset | ✅ Completed |
+| 24 | Random Forest (Breast Cancer) | Classify the Breast Cancer dataset | ✅ Completed |
 
 
 ---
