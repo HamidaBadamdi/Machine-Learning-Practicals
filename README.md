@@ -69,6 +69,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 | 26 | Salary Prediction (Linear Regression) | Predict salary based on years of experience | ✅ Completed |
 
 
+
 ---
 
 ## 🔗 Connect With Me
