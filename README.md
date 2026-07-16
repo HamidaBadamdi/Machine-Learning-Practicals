@@ -67,6 +67,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 | 24 | Random Forest (Breast Cancer) | Classify the Breast Cancer dataset | ✅ Completed |
 | 25 | Simple Linear Regression | Predict CPU time using Linear Regression | ✅ Completed |
 | 26 | Salary Prediction (Linear Regression) | Predict salary based on years of experience | ✅ Completed |
+| 27 | Multiple Linear Regression | Predict CO₂ emissions using multiple features | ✅ Completed |
 
 
 
