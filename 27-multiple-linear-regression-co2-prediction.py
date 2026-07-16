@@ -21,7 +21,7 @@ from sklearn.model_selection import train_test_split, cross_val_score
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv("D:/Summer 2024/ML - MCA/Programs/cardata.csv")
+df = pd.read_csv("datasets/cardata.csv")
 
 X = df[['Weight', 'Volume']]
 y = df['CO2']
