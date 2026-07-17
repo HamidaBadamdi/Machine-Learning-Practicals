@@ -68,6 +68,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 | 25 | Simple Linear Regression | Predict CPU time using Linear Regression | ✅ Completed |
 | 26 | Salary Prediction (Linear Regression) | Predict salary based on years of experience | ✅ Completed |
 | 27 | Multiple Linear Regression | Predict CO₂ emissions using multiple features | ✅ Completed |
+| 28 | Multiple Linear Regression (Sample Data) | Build and evaluate a regression model | ✅ Completed |
 
 
 
