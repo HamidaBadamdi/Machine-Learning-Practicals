@@ -71,6 +71,15 @@ This repository is continuously updated with new Machine Learning practicals as 
 |  22 | SVM Classification (Breast Cancer)   |    ✅   |
 |  23 | Logistic Regression (Breast Cancer)  |    ✅   |
 
+📈 Regression Algorithms
+| No. | Practical                                | Status |
+| :-: | ---------------------------------------- | :----: |
+|  25 | Simple Linear Regression                 |    ✅   |
+|  26 | Salary Prediction (Linear Regression)    |    ✅   |
+|  27 | Multiple Linear Regression               |    ✅   |
+|  28 | Multiple Linear Regression (Sample Data) |    ✅   |
+
+
 
 
 
