@@ -22,7 +22,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 
 # Load the Auto MPG dataset
 
-auto_mpg = pd.read_csv("D:/Winter 2023/MSc DS 2/Practicals/19-02/auto-mpg.csv")
+auto_mpg = pd.read_csv("datasets/auto-mpg.csv")
 
 auto1=auto_mpg.drop('car name', axis=1)
 
