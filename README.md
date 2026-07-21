@@ -39,6 +39,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 
 ## 📊 Practicals Progress
 
+🟢 Data Preprocessing
 | No. | Practical                        | Status |
 | :-: | -------------------------------- | :----: |
 |  1  | Label Encoding                   |    ✅   |
@@ -48,6 +49,18 @@ This repository is continuously updated with new Machine Learning practicals as 
 |  5  | Data Exploration                 |    ✅   |
 |  6  | Handling Missing Values          |    ✅   |
 |  7  | Missing Value Imputation         |    ✅   |
+
+🌳 Tree-Based Models
+| No. | Practical                         | Status |
+| :-: | --------------------------------- | :----: |
+|  8  | Decision Tree Classifier          |    ✅   |
+|  9  | Feature Importance (Wine Dataset) |    ✅   |
+|  17 | Decision Tree Visualization       |    ✅   |
+|  18 | Decision Tree Classification      |    ✅   |
+|  21 | Decision Tree (Breast Cancer)     |    ✅   |
+|  24 | Random Forest (Breast Cancer)     |    ✅   |
+|  29 | Random Forest Regression          |    ✅   |
+
 
 
 ---
