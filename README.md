@@ -69,6 +69,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 | 26 | Salary Prediction (Linear Regression) | Predict salary based on years of experience | ✅ Completed |
 | 27 | Multiple Linear Regression | Predict CO₂ emissions using multiple features | ✅ Completed |
 | 28 | Multiple Linear Regression (Sample Data) | Build and evaluate a regression model | ✅ Completed |
+| 29 | Random Forest Regression | Predict vehicle MPG using Random Forest Regression | ✅ Completed |
 
 
 
