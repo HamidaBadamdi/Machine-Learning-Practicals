@@ -61,6 +61,17 @@ This repository is continuously updated with new Machine Learning practicals as 
 |  24 | Random Forest (Breast Cancer)     |    ✅   |
 |  29 | Random Forest Regression          |    ✅   |
 
+🤖 Classification Algorithms
+| No. | Practical                            | Status |
+| :-: | ------------------------------------ | :----: |
+|  15 | KNN Classification (Breast Cancer)   |    ✅   |
+|  16 | KNN Classification (Iris)            |    ✅   |
+|  19 | Gaussian Naive Bayes (Breast Cancer) |    ✅   |
+|  20 | Gaussian Naive Bayes (Iris)          |    ✅   |
+|  22 | SVM Classification (Breast Cancer)   |    ✅   |
+|  23 | Logistic Regression (Breast Cancer)  |    ✅   |
+
+
 
 
 ---
