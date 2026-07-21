@@ -80,6 +80,16 @@ This repository is continuously updated with new Machine Learning practicals as 
 |  28 | Multiple Linear Regression (Sample Data) |    ✅   |
 
 
+📊 Model Evaluation & Validation
+| No. | Practical                              | Status |
+| :-: | -------------------------------------- | :----: |
+|  10 | K-Fold Cross-Validation                |    ✅   |
+|  11 | Leave-One-Out Cross-Validation (LOOCV) |    ✅   |
+|  12 | Grid Search (SVM)                      |    ✅   |
+|  13 | Manual Grid Search (SVM)               |    ✅   |
+|  14 | Train-Test Split                       |    ✅   |
+
+
 
 
 
