@@ -39,38 +39,15 @@ This repository is continuously updated with new Machine Learning practicals as 
 
 ## 📊 Practicals Progress
 
-| No. | Practical | Description | Status |
-|:---:|-----------------------------------------|----------------------------------------------------------|:---------:|
-| 1 | Label Encoding | Encode categorical features using `LabelEncoder` | ✅ Completed |
-| 2 | Ordinal Encoding | Encode ordered categorical features | ✅ Completed |
-| 3 | Feature Mapping & Label Encoding | Map feature values and encode class labels | ✅ Completed |
-| 4 | One-Hot Encoding | Convert categorical features into dummy variables | ✅ Completed |
-| 5 | Data Exploration | Explore CSV and Excel datasets using Pandas | ✅ Completed |
-| 6 | Handling Missing Values | Detect and remove missing values | ✅ Completed |
-| 7 | Missing Value Imputation | Impute missing values using `SimpleImputer` | ✅ Completed |
-| 8 | Decision Tree Classifier | Train a Decision Tree classification model | ✅ Completed |
-| 9 | Feature Importance (Wine Dataset) | Analyze feature importance using Decision Tree | ✅ Completed |
-| 10 | K-Fold Cross-Validation | Evaluate Logistic Regression using k-fold validation | ✅ Completed |
-| 11 | Leave-One-Out Cross-Validation (LOOCV) | Evaluate model using LOOCV | ✅ Completed |
-| 12 | Grid Search (SVM) | Optimize SVM hyperparameters using `GridSearchCV` | ✅ Completed |
-| 13 | Manual Grid Search (SVM) | Perform manual hyperparameter tuning for SVM | ✅ Completed |
-| 14 | Train-Test Split | Split dataset into training and testing sets | ✅ Completed |
-| 15 | KNN Classification (Breast Cancer) | Classify the Breast Cancer dataset using KNN | ✅ Completed |
-| 16 | KNN Classification (Iris) | Classify the Iris dataset using KNN | ✅ Completed |
-| 17 | Decision Tree Visualization | Visualize a Decision Tree using `dtreeviz` | ✅ Completed |
-| 18 | Decision Tree Classification | Evaluate a Decision Tree classifier | ✅ Completed |
-| 19 | Gaussian Naive Bayes (Breast Cancer) | Classify the Breast Cancer dataset using Gaussian Naive Bayes | ✅ Completed |
-| 20 | Gaussian Naive Bayes (Iris) | Classify the Iris dataset using Gaussian Naive Bayes | ✅ Completed |
-| 21 | Decision Tree (Breast Cancer) | Classify the Breast Cancer dataset using Decision Tree | ✅ Completed |
-| 22 | SVM Classification (Breast Cancer) | Compare SVM kernels for classification | ✅ Completed |
-| 23 | Logistic Regression (Breast Cancer) | Classify the Breast Cancer dataset | ✅ Completed |
-| 24 | Random Forest (Breast Cancer) | Classify the Breast Cancer dataset | ✅ Completed |
-| 25 | Simple Linear Regression | Predict CPU time using Linear Regression | ✅ Completed |
-| 26 | Salary Prediction (Linear Regression) | Predict salary based on years of experience | ✅ Completed |
-| 27 | Multiple Linear Regression | Predict CO₂ emissions using multiple features | ✅ Completed |
-| 28 | Multiple Linear Regression (Sample Data) | Build and evaluate a regression model | ✅ Completed |
-| 29 | Random Forest Regression | Predict vehicle MPG using Random Forest Regression | ✅ Completed |
-
+| No. | Practical                        | Status |
+| :-: | -------------------------------- | :----: |
+|  1  | Label Encoding                   |    ✅   |
+|  2  | Ordinal Encoding                 |    ✅   |
+|  3  | Feature Mapping & Label Encoding |    ✅   |
+|  4  | One-Hot Encoding                 |    ✅   |
+|  5  | Data Exploration                 |    ✅   |
+|  6  | Handling Missing Values          |    ✅   |
+|  7  | Missing Value Imputation         |    ✅   |
 
 
 ---
