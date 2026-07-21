@@ -32,6 +32,9 @@ This repository is continuously updated with new Machine Learning practicals as 
 * Pandas
 * Matplotlib / Seaborn
 * Scikit-Learn
+* SciPy
+* dtreeviz
+* mglearn
 * IDLE
 * Jupyter Notebook
 
