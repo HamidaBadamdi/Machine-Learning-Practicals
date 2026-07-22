@@ -81,6 +81,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 |  26 | Salary Prediction (Linear Regression)    |    ✅   |
 |  27 | Multiple Linear Regression               |    ✅   |
 |  28 | Multiple Linear Regression (Sample Data) |    ✅   |
+| 30 | California Housing Prediction             | ✅ |
 
 
 📊 Model Evaluation & Validation
