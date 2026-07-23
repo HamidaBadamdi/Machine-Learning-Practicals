@@ -82,6 +82,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 |  27 | Multiple Linear Regression               |    ✅   |
 |  28 | Multiple Linear Regression (Sample Data) |    ✅   |
 | 30 | California Housing Prediction             | ✅ |
+| 31 | Profit Prediction | ✅ |
 
 
 📊 Model Evaluation & Validation
