@@ -20,7 +20,7 @@ from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
 from sklearn import metrics
 
-data=pd.read_csv("D:/Winter 2023/BSc DS 4/Programs/linearregressiondataset.csv")
+data=pd.read_csv("datasets/linearregressiondataset.csv")
 
 x=data.iloc[:,0:1]
 y=data.iloc[:,1]
