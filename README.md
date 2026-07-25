@@ -73,6 +73,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 |  20 | Gaussian Naive Bayes (Iris)          |    ✅   |
 |  22 | SVM Classification (Breast Cancer)   |    ✅   |
 |  23 | Logistic Regression (Breast Cancer)  |    ✅   |
+| 33 | Logistic Regression (Iris) | ✅ |
 
 📈 Regression Algorithms
 | No. | Practical                                | Status |
