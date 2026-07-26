@@ -74,6 +74,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 |  22 | SVM Classification (Breast Cancer)   |    ✅   |
 |  23 | Logistic Regression (Breast Cancer)  |    ✅   |
 | 33 | Logistic Regression (Iris) | ✅ |
+| 34 | Multinomial Logistic Regression (Glass) | ✅ |
 
 📈 Regression Algorithms
 | No. | Practical                                | Status |
@@ -95,10 +96,6 @@ This repository is continuously updated with new Machine Learning practicals as 
 |  12 | Grid Search (SVM)                      |    ✅   |
 |  13 | Manual Grid Search (SVM)               |    ✅   |
 |  14 | Train-Test Split                       |    ✅   |
-
-
-
-
 
 ---
 
