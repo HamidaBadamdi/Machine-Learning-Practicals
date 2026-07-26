@@ -28,7 +28,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix, classification_rep
 # ----------------------------------------------------------
 # Step 1: Load Dataset
 # ----------------------------------------------------------
-df = pd.read_csv("D:/Laptop backup/Summer 2026/ML - MCA 3 B/Programs/Lab 10/glass.csv")
+df = pd.read_csv("datasets/glass.csv")
 
 print("First Five Records")
 print(df.head())
