@@ -75,6 +75,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 |  23 | Logistic Regression (Breast Cancer)  |    ✅   |
 | 33 | Logistic Regression (Iris) | ✅ |
 | 34 | Multinomial Logistic Regression (Glass) | ✅ |
+| 35 | Categorical Naive Bayes (Buys Computer) | ✅ |
 
 📈 Regression Algorithms
 | No. | Practical                                | Status |
