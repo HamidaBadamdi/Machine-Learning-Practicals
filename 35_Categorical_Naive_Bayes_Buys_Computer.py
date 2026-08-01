@@ -3,7 +3,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.naive_bayes import CategoricalNB
 
 # Step 1: Load dataset from CSV file
-df = pd.read_csv('buys_computer.csv')
+df = pd.read_csv('datasets/buys_computer.csv')
 
 print('Original Dataset:\\n')
 print(df)
