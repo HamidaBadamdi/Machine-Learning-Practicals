@@ -63,6 +63,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 |  21 | Decision Tree (Breast Cancer)     |    ✅   |
 |  24 | Random Forest (Breast Cancer)     |    ✅   |
 |  29 | Random Forest Regression          |    ✅   |
+| 36 | Decision Tree (Job Offer Prediction) | ✅ |
 
 🤖 Classification Algorithms
 | No. | Practical                            | Status |
