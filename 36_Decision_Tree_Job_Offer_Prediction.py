@@ -29,7 +29,7 @@ from sklearn.tree import DecisionTreeClassifier, export_text
 # -----------------------------
 # Step 1: Load Dataset
 # -----------------------------
-df = pd.read_csv("job_offer_dataset.csv")
+df = pd.read_csv("datasets/job_offer_dataset.csv")
 
 print("Original Dataset:\n")
 print(df)
