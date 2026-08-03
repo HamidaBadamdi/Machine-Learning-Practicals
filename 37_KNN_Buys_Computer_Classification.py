@@ -27,7 +27,7 @@ from sklearn.neighbors import KNeighborsClassifier
 # -----------------------------
 # Step 1: Load Dataset
 # -----------------------------
-df = pd.read_csv("buys_computer.csv")
+df = pd.read_csv("datasets/buys_computer.csv")
 
 print("Original Dataset:\n")
 print(df)
