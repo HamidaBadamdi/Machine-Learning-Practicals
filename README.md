@@ -78,6 +78,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 | 34 | Multinomial Logistic Regression (Glass) | ✅ |
 | 35 | Categorical Naive Bayes (Buys Computer) | ✅ |
 | 37 | KNN Classification (Buys Computer) | ✅ |
+| 38 | KNN Classification (Job Offer) | ✅ |
 
 📈 Regression Algorithms
 | No. | Practical                                | Status |
