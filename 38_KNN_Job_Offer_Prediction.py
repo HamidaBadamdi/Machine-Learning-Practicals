@@ -29,7 +29,7 @@ from sklearn.neighbors import KNeighborsClassifier
 # -----------------------------
 df = pd.read_csv("job_offer_dataset.csv")
 
-print("Original Dataset:\n")
+print("datasets/Original Dataset:\n")
 print(df)
 
 # -----------------------------
