@@ -101,6 +101,9 @@ This repository is continuously updated with new Machine Learning practicals as 
 |  14 | Train-Test Split                       |    ✅   |
 
 🧩 Clustering Algorithms
+
+| No. | Practical | Status |
+| :-: | --------------------------------------- | :----: |
 | 39 | K-Means Clustering (Breast Cancer) | ✅ |
 
 ---
