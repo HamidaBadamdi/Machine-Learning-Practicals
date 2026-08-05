@@ -91,7 +91,6 @@ This repository is continuously updated with new Machine Learning practicals as 
 | 31 | Profit Prediction | ✅ |
 | 32 | House Price Prediction | ✅ |
 
-
 📊 Model Evaluation & Validation
 | No. | Practical                              | Status |
 | :-: | -------------------------------------- | :----: |
@@ -100,6 +99,9 @@ This repository is continuously updated with new Machine Learning practicals as 
 |  12 | Grid Search (SVM)                      |    ✅   |
 |  13 | Manual Grid Search (SVM)               |    ✅   |
 |  14 | Train-Test Split                       |    ✅   |
+
+🧩 Clustering Algorithms
+| 39 | K-Means Clustering (Breast Cancer) | ✅ |
 
 ---
 
