@@ -32,7 +32,7 @@ from sklearn.metrics import silhouette_score
 import matplotlib.pyplot as plt 
 
 
-home_data = pd.read_csv('D:/Winter 2023/MSc DS 2/Practicals/housing_dataset.csv', usecols = ['longitude', 'latitude', 'house_value'])
+home_data = pd.read_csv('datasets/housing_dataset.csv', usecols = ['longitude', 'latitude', 'house_value'])
 home_data.head()
 
 sns.scatterplot(data = home_data, x = 'longitude', y = 'latitude', hue = 'house_value')
