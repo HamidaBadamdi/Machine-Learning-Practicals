@@ -105,6 +105,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 | No. | Practical | Status |
 | :-: | --------------------------------------- | :----: |
 | 39 | K-Means Clustering (Breast Cancer) | ✅ |
+| 40 | K-Means Clustering (Housing Dataset) | ✅ |
 
 ---
 
