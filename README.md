@@ -107,6 +107,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 | 39 | K-Means Clustering (Breast Cancer) | ✅ |
 | 40 | K-Means Clustering (Housing Dataset) | ✅ |
 | 41 | K-Means Clustering (Iris Dataset) | ✅ |
+| 42 | K-Medoids Clustering (Breast Cancer) | ✅ |
 
 ---
 
