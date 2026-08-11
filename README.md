@@ -79,6 +79,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 | 35 | Categorical Naive Bayes (Buys Computer) | ✅ |
 | 37 | KNN Classification (Buys Computer) | ✅ |
 | 38 | KNN Classification (Job Offer) | ✅ |
+| 44 | KNN Classification (Breast Cancer) | ✅ |
 
 📈 Regression Algorithms
 | No. | Practical                                | Status |
