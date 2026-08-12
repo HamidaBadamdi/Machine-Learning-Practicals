@@ -80,6 +80,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 | 37 | KNN Classification (Buys Computer) | ✅ |
 | 38 | KNN Classification (Job Offer) | ✅ |
 | 44 | KNN Classification (Breast Cancer) | ✅ |
+| 45 | KNN Classification (Iris) | ✅ |
 
 📈 Regression Algorithms
 | No. | Practical                                | Status |
