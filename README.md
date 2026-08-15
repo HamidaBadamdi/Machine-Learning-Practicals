@@ -111,6 +111,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 | 41 | K-Means Clustering (Iris Dataset) | ✅ |
 | 42 | K-Medoids Clustering (Breast Cancer) | ✅ |
 | 43 | K-Medoids Clustering (Iris Dataset) | ✅ |
+| 46 | Agglomerative Clustering (Titanic Dataset) | ✅ |
 
 ---
 
