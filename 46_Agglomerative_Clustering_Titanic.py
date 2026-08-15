@@ -36,7 +36,7 @@ from scipy.cluster.hierarchy import dendrogram, linkage
 
 
 # 1. Load dataset
-df = pd.read_csv("D:/Laptop backup/Summer 2025/ML - MCA/Programs/titanic.csv")
+df = pd.read_csv("datasets/titanic.csv")
 print("Dataset shape:", df.shape)
 
 
