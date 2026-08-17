@@ -113,6 +113,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 | 43 | K-Medoids Clustering (Iris Dataset) | ✅ |
 | 46 | Agglomerative Clustering (Titanic Dataset) | ✅ |
 | 47 | Agglomerative Clustering (Breast Cancer) | ✅ |
+| 48 | Agglomerative Clustering (Complete Linkage) | ✅ |
 
 ---
 
