@@ -114,6 +114,7 @@ This repository is continuously updated with new Machine Learning practicals as 
 | 46 | Agglomerative Clustering (Titanic Dataset) | ✅ |
 | 47 | Agglomerative Clustering (Breast Cancer) | ✅ |
 | 48 | Agglomerative Clustering (Complete Linkage) | ✅ |
+| 49 | Agglomerative Clustering (Average Linkage) | ✅ |
 
 ---
 
